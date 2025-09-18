@@ -1,4 +1,3 @@
-# portfolio
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -130,8 +129,7 @@
   <section id="about" class="about">
     <h2>About Me</h2>
     <p>I help businesses increase their online visibility, improve Google rankings, and drive targeted organic traffic through proven SEO strategies.</p>
-    <img src="https://source.unsplash.com/1000x400/?seo,analytics" alt="SEO Work">
-  </section>
+    </section>
 
   <section id="skills" class="skills">
     <h2>Core SEO Skills</h2>
@@ -144,8 +142,7 @@
       <li>✔ SEO Content Strategy & Writing</li>
       <li>✔ Tools: Google Analytics, SEMrush, Ahrefs</li>
     </ul>
-    <img src="https://source.unsplash.com/1000x400/?keywords,seo" alt="SEO Skills">
-  </section>
+    </section>
 
   <section id="projects" class="projects">
     <h2>Projects & Results</h2>
@@ -155,7 +152,7 @@
       <li>🔧 Performed SEO audits fixing critical technical issues.</li>
       <li>📍 Helped a local business rank #1 for top local keywords.</li>
     </ul>
-    <img src="https://source.unsplash.com/1000x400/?business,success" alt="SEO Projects">
+    
   </section>
 
   <section id="contact" class="contact">
